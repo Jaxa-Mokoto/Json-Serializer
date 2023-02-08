@@ -7,7 +7,13 @@ var person = new Person{
     Name = "John",
     LastName = "Wick",
     Age = 45,
-    isAlive = true
+    isAlive = true,
+    Address = new Address // demonstrate nesting in objects
+    {
+        StreetName = "1 York Street",
+        City = "Sydeny",
+        ZipCode = 2000
+    }
 };
 
 // set the options for the json object

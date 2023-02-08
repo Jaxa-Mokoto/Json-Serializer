@@ -3,5 +3,10 @@
   "name": "John",
   "lastName": "Wick",
   "age": 45,
-  "isAlive": true
+  "isAlive": true,
+  "address": {
+    "streetName": "1 York Street",
+    "city": "Sydeny",
+    "zipCode": 2000
+  }
 }
