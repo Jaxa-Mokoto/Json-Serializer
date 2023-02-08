@@ -1,5 +1,6 @@
 ﻿using System.Text.Json;
 using Serializer.Models;
+using Serializer.Helpers;
 
 // create an instance of the person model
 var person = new Person{
@@ -26,7 +27,7 @@ var person = new Person{
 // set the options for the json object
 var options = new JsonSerializerOptions{
     WriteIndented = true,
-    PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+    PropertyNamingPolicy =  new LowerCaseNamingPolicy(),
     IncludeFields = true // makes all fields exposed - not best practice.
 };
 
