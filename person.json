@@ -1,7 +1,7 @@
 {
-  "Id": 1,
-  "Name": "John",
-  "LastName": "Wick",
-  "Age": 45,
+  "id": 1,
+  "name": "John",
+  "lastName": "Wick",
+  "age": 45,
   "isAlive": true
 }

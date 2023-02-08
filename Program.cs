@@ -12,11 +12,12 @@ var person = new Person{
 
 // set the options for the json object
 var options = new JsonSerializerOptions{
-    WriteIndented = true
+    WriteIndented = true,
+    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
 };
 
 // serialize the object
-string jsonResult = JsonSerializer.Serialize(person, options);
+string jsonResult = JsonSerializer.Serialize<Person>(person, options);
 
 // place serialized object into JSON file
 var fileName = "person.json";
