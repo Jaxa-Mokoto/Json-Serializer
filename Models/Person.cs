@@ -8,5 +8,6 @@ namespace Serializer.Models
         public int Age { get; set; }
         public bool isAlive { get; set; }
         public Address? Address { get; set; }
+        public List<Phone>? Phones { get; set; }
     }
 }

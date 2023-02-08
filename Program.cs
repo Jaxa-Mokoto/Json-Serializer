@@ -13,6 +13,12 @@ var person = new Person{
         StreetName = "1 York Street",
         City = "Sydeny",
         ZipCode = 2000
+    },
+    Phones = new List<Phone>()
+    {
+        new Phone { PhoneType = "Home", PhoneNumber = 0231522565},
+        new Phone { PhoneType = "Mobile", PhoneNumber = 0451522565},
+        new Phone { PhoneType = "Home", PhoneNumber = 0231526755}
     }
 };
 

@@ -8,5 +8,19 @@
     "streetName": "1 York Street",
     "city": "Sydeny",
     "zipCode": 2000
-  }
+  },
+  "phones": [
+    {
+      "phoneType": "Home",
+      "phoneNumber": 231522565
+    },
+    {
+      "phoneType": "Mobile",
+      "phoneNumber": 451522565
+    },
+    {
+      "phoneType": "Home",
+      "phoneNumber": 231526755
+    }
+  ]
 }
