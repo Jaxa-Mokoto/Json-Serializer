@@ -3,7 +3,6 @@
   "name": "John",
   "surname": "Wick",
   "age": 45,
-  "isAlive": true,
   "address": {
     "streetName": "1 York Street",
     "city": "Sydeny",
