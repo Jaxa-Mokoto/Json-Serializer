@@ -10,8 +10,13 @@ var person = new Person{
     isAlive = true
 };
 
+// set the options for the json object
+var options = new JsonSerializerOptions{
+    WriteIndented = true
+};
+
 // serialize the object
-string jsonResult = JsonSerializer.Serialize(person);
+string jsonResult = JsonSerializer.Serialize(person, options);
 
 // place serialized object into JSON file
 var fileName = "person.json";

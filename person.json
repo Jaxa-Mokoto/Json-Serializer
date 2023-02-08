@@ -1,1 +1,7 @@
-{"Id":1,"Name":"John","LastName":"Wick","Age":45,"isAlive":true}
+{
+  "Id": 1,
+  "Name": "John",
+  "LastName": "Wick",
+  "Age": 45,
+  "isAlive": true
+}
