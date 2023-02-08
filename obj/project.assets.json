@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/Serializer/Serializer.csproj",
+      "projectUniqueName": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/Serializer.csproj",
       "projectName": "Serializer",
-      "projectPath": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/Serializer/Serializer.csproj",
+      "projectPath": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/Serializer.csproj",
       "packagesPath": "/Users/modjadjimokoto/.nuget/packages/",
-      "outputPath": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/Serializer/obj/",
+      "outputPath": "/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/modjadjimokoto/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/bin/Debug/net7.0/Serializer
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/bin/Debug/net7.0/Serializer.deps.json
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/bin/Debug/net7.0/Serializer.runtimeconfig.json
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/bin/Debug/net7.0/Serializer.dll
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/bin/Debug/net7.0/Serializer.pdb
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.csproj.AssemblyReference.cache
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.AssemblyInfoInputs.cache
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.AssemblyInfo.cs
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.csproj.CoreCompileInputs.cache
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.dll
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/refint/Serializer.dll
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.pdb
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/Serializer.genruntimeconfig.cache
+/Users/modjadjimokoto/Documents/GitHub/Json-Serializer/obj/Debug/net7.0/ref/Serializer.dll
