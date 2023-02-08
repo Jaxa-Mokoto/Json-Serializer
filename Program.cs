@@ -19,13 +19,15 @@ var person = new Person{
         new Phone { PhoneType = "Home", PhoneNumber = 0231522565},
         new Phone { PhoneType = "Mobile", PhoneNumber = 0451522565},
         new Phone { PhoneType = "Home", PhoneNumber = 0231526755}
-    }
+    },
+    EyeColor = "blue" // will not appear because this is a fieldm not a property unless [JsonInclude] is set on model
 };
 
 // set the options for the json object
 var options = new JsonSerializerOptions{
     WriteIndented = true,
-    PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+    PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+    IncludeFields = true // makes all fields exposed - not best practice.
 };
 
 // serialize the object

@@ -16,5 +16,6 @@ namespace Serializer.Models
         public bool isAlive { get; set; }
         public Address? Address { get; set; }
         public List<Phone>? Phones { get; set; }
+        public string? EyeColor; // this is a field not a property
     }
 }
