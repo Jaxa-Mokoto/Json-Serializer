@@ -5,7 +5,7 @@ namespace Serializer.Models
     {
         public int Id { get; set; }
 
-        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)] // to ignore the property with a condition
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)] // to ignore the property with a condition (conditional formatting)
         public string? Name { get; set; }
 
         [JsonPropertyName("surname")] // how to name the serialised property as something else
